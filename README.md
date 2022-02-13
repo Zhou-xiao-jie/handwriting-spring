@@ -1,2 +1,5 @@
 # handwriting-spring
 纯手写Spring核心Bean加载流程以及初始化，通过对Spring源码的研究，手写出核心流程
+自定义Autowired、Component、ComponentScan、Scope注解
+自定义BeanNameAware、BeanPostProcessor、InitializingBean接口
+自定义BeanDefinition、CustomApplicationContext、MyBeanPostProcessor实现类
